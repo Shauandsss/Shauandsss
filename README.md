@@ -25,9 +25,11 @@ Sometimes going to find bugs in things, really like this part of security and et
   <div align="center" > 
   <a href="https://instagram.com/shauandss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:shauandss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/shauan-santos-b04459187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/shauan-santos-b04459187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
-
+  <div align="center">
+  <a align="center" href="https://www.beecrowd.com.br/judge/pt/profile/441212" target="_blank"><img width="100px" src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png" target="_blank">    </a>
+  </div>
     
 
     
