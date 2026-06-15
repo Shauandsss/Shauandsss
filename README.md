@@ -1,6 +1,6 @@
 ### Hi, I'm Shauan 👋
 
-AI Developer building clinical AI in production and researching what happens inside the models.
+AI Tech Lead building clinical AI in production and researching what happens inside the models.
 
 Currently shipping LLM-powered tools for healthcare — a conversational assistant that lets physicians query patient records, discuss clinical data, and navigate medical history through natural language. At the same time, my MSc research at UFFS digs into mechanistic interpretability of language models applied to clinical and moral reasoning: not just what the model outputs, but why.
 
